@@ -1,3 +1,5 @@
-{ 
-    "liveServer.settings.ignoreFiles": ["Backend/**"] 
+{
+  "liveServer.settings.root": "/Portfolio-architecte/FrontEnd",
+  "liveServer.settings.ignoreFiles": ["**/.git/**", "Backend/**", "**/*.map"]
 }
+
